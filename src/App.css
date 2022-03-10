@@ -1,0 +1,66 @@
+body{
+  background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v546batch3-mynt-34-badgewatercolor_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=89288ef4b47127f7f34a5998b50e4470");
+  background-image: url("https://media.istockphoto.com/photos/mature-woman-working-from-home-picture-id1214307416?k=20&m=1214307416&s=170667a&w=0&h=RMVVIZPVZpqZ1nnZTUpXpy3kKBTKOlzm_weuOB20vy0=");
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+#cont{
+  margin: 5%;
+  height: 600px;
+  width: 32%;
+  background-color: rgb(253, 251, 251);
+  margin-top: 3%;
+  text-align: center;
+  font-size: 30px;
+  border: 1px solid rgb(2, 2, 2);
+  box-shadow: 5px 5px 5px 5px solid rgb(204, 192, 204) ;
+}
+
+h1{
+  margin-top: 4%;
+  text-align: center;
+}
+
+input{
+  font-size: 21px;
+  text-align: center;
+  border-radius: 4px;
+  padding: 9px 14px;
+}
+
+#bn{
+  font-size: 18px;
+  padding: 2.4% 4%;
+  margin-left: 2%;
+  border-radius: 6px;
+  color: white;
+  background-color: rgb(197, 48, 73);
+}
+
+#alltodo{
+   
+  height: 3%;
+  width: 39%;
+  margin-left: 21%;
+  text-align: center;
+  padding: 8px 8px;
+  font-size: 25px;
+  margin-top: 6%;
+  font-weight: bolder;
+  background-color: rgb(255, 215, 215);
+}
+
+.btns{
+  margin-left: -18%;
+}
+
+#btn{
+  margin-top: 6%;
+  font-size: 18px;
+  padding: 2% 8%;
+  margin-left: 2%;
+  border-radius: 6px;
+  color: white;
+  background-color: rgb(197, 48, 73);
+}

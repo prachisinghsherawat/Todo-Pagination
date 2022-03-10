@@ -1,0 +1,44 @@
+{
+  "Todos": [
+    {
+      "title": "Wake Up ",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Brush",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Breakfast",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Bathing",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Study",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Eating",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Watching Movie",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Sleeping",
+      "status": false,
+      "id": 8
+    }
+  ]
+}
